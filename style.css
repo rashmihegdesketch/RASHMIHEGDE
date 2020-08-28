@@ -1,0 +1,73 @@
+/* ######## start of global font ########*/
+body{
+    font-family: 'Poppins',
+    sans-serif;
+    font-size: 13px;
+}
+
+.font{
+font-family: 'Neuton',
+serif;
+font-weight: 600;
+}
+
+/*-----dash----*/
+.dashUnder {
+    height: 2px;
+    background-color: black;
+    width: 5%;
+}
+
+
+/* Theme colour */
+.myColor{
+    background-color:rgb(245, 49, 82);
+}
+
+/*Theme colour for Text*/
+.textMyColor{
+    color:rgb(245, 49, 82);
+}
+/* ##### End of global styling####*/
+
+/*!!!!!!!!main styling!!!!!!*/
+
+/*^^^^^^^^navbar-start^^^^^^^*/
+#mainNavbar{
+    font-size: medium;
+    font-family: 'Neuton',
+  serif;
+}
+
+/*brand logo color*/
+#mainNavbar .navbar-brand{
+    color:rgb(245, 49, 82);
+    font-size: 30px;
+    letter-spacing: 5px;
+}
+
+/*nav link font*/
+#mainNavbar .nav-link{
+    font-size: large;
+}
+
+/*active button*/
+#mainNavbar .navbar-nav .active .nav-link{
+    color:rgb(245, 49, 82);
+}
+#mainNavbar .navbar-nav .nav-link:hover {
+    color:rgb(245, 49, 82);
+}
+/*^^^^^^^^End-navbar^^^^^^^*/
+
+
+/*main name beside image*/
+
+#myName{
+    font-size: 50px;
+    font-family: 'Neuton', 
+    serif;
+    font-weight: 600;
+}
+
+
